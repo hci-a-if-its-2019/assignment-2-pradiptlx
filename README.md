@@ -69,16 +69,11 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 
 ### 3. Selected Sketch
 
-```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
-```
+I choose solution 3 on problem 1 because it looks cleaner and make it more compact. Add card layout on right side with nav layout on left side reduce the empty space on the window.
 
 ### 4. Design Rationale
-```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
-```
+
+From learning contextual inquiry, the designer can get different perspective from other user and their wishes with our application's usability.
 
 ## Part B: Assumptions
 
