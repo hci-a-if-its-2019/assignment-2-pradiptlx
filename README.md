@@ -1,25 +1,74 @@
-# Sketching and Prototyping
+# Sketching and Prototyping Anki Desktop Application
+
 Using the information in the results of Assignment 1 for what is good and bad about the UI for designed tasks, we are going to make **Sketches** and **Prototypes**. These sketches and prototypes will lead to better design in Assignment 3. The prototypes will be then tested through a usability evaluation followed by design revision in Assignment 4.
 
 ## Part A: Sketches
+
 Sketch at least **3 (three)** different UIs for the functions you are targeting. These three interfaces should be _dramatically different_ in terms of design directions. For example, they can be with different organizations of what functions on each screen or using a different layout of the icons, widgets, and menus on the screens. If you want, you can also incorporate non-on-screen UIs: physical buttons, gestures through motion sensors, etc.
 
 You need **not** sketch the whole interface. It is not necessary for the sketches to have every function or every function in detail, but there should be enough to show off your general idea. **Be creative!** Draw your idea and label a few of the widgets so we can tell your intent. The goal is to have at least 3 good UIs in *interesting* ways. Sketches should be done on paper with pens and/or pencils (do not use a computer).
 
 ### 1. Scan/Photo of Sketches
-```
-Be sure to label the different versions so you can differentiate them in your discussion. 
-If you choose to take a picture of your sketches, please make sure the texts are readable.
-```
 
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
+#### 1.1 Problem 1
+
+![Problem 1](images/problem-1.png)
+
+#### 1.2 Problem 2
+
+![Problem 2](images/problem-2.png)
 
 ### 2. Version Differences
-```
-Please write a paragraph talking about the differences between the versions
-```
+
+#### 2.1 Solution Problem 1
+
+#### 2.1.1 Problem
+
+1. Menu bar button feels like plain text, hard to find menu bar on the first place.
+2. Action buttons on below deck list must be moved to _Add_ page for easily access.
+3. Statistic of usage must be separated with different position than on deck list.
+
+#### 2.1.2 Solution
+
+* Solution 1
+    1. Create _nav_ layout on menu bar button. When it activated, there is some border line on top of it.
+    2. Create separated statistical usage under the deck list.
+
+* Solution 2
+    1. Menu bar must be separated with color. When it active or selected, button color is blue.
+    2. Change deck list layout with _nav_ layout.
+    3. Separate statistical usage with _nav_ layout.
+
+* Solution 3
+    1. Change menu bar button layout to vertical and active button is selected with blue color.
+    2. Deck list is separated with _card_ layout on right side of menu bar button.
+
+#### 2.2 Solution Problem 2
+
+#### 2.2.1 Problem
+
+1. Hard to understand info card (learning pattern).
+2. Show Answer button not flipped the card but make it scrollable.
+
+#### 2.2.2 Solution
+
+* Solution 1
+    1. Add text info (_new_, _again_, _good_) on learning pattern
+    2. Make _show answer_ button wider.
+    3. Make the back card more scrollable.
+
+* Solution 2
+    1. Separate learing pattern info with different color.
+    2. Change _show answer_ to _flip card_.
+    3. Flip the card (with animation) after clicked _show answer_ button.
+
+* Solution 3
+    1. Add header title on front card and back card
+    2. Separate learning pattern info and not using border line because it is not button.
+    3. Separate four button for rating the content on back card.
 
 ### 3. Selected Sketch
+
 ```
 Please write a paragraph telling us about which design you picked for Parts B and C 
 and why you selected it.
@@ -32,22 +81,24 @@ and how it is reflected in your design.
 ```
 
 ## Part B: Assumptions
+
 ### 1. Hardware
-```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
-```
+
+1. Screen size (minimum) : 13.3 inch
+2. Screen Resolution : higher than or equal to 1360 x 768 pixels
+3. Computer Specification (minimum) :
+    * Memory : 2 Gb
+    * Intel/AMD CPU
+4. Has mouse and keyboard input
+
 ### 2. Users
-```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
-```
+
+1. Familiar with Flash Card learning method
+2. Have passion to read documentation
+3. User is students or workers
+4. User age between 17-50 years old
+5. Understand to operate computer and internet
 
 ## Part C: Prototypes
+
 We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
