@@ -69,7 +69,7 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 
 ### 3. Selected Sketch
 
-I choose solution 3 on problem 1 because it looks cleaner and make it more compact. Add card layout on right side with nav layout on left side reduce the empty space on the window.
+I choose solution 2 on problem 1 because it looks cleaner and make it more compact. Menu bar layout more like button than text hyperlink. Title of each section is more strong because there are _nav_ menu around text title. The info section is on below of content and wrap with separate layout, giving an informative impression.
 
 ### 4. Design Rationale
 
@@ -96,4 +96,10 @@ From learning contextual inquiry, the designer can get different perspective fro
 
 ## Part C: Prototypes
 
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+Freehand:
+
+![free hand](images/main-freehand.png)
+
+Prototype Link:
+
+[https://invis.io/QRR8E05DM9C#/354680511_Screenshot_2019-03-27_HCI_-_Assignment_2-1-](https://invis.io/QRR8E05DM9C#/354680511_Screenshot_2019-03-27_HCI_-_Assignment_2-1-)
