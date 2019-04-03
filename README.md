@@ -102,4 +102,4 @@ Freehand:
 
 Prototype Link:
 
-[https://invis.io/QRR8E05DM9C#/354680511_Screenshot_2019-03-27_HCI_-_Assignment_2-1-](https://invis.io/QRR8E05DM9C#/354680511_Screenshot_2019-03-27_HCI_-_Assignment_2-1-)
+[https://invis.io/QRR8E05DM9C#/355954860_Deck](https://invis.io/QRR8E05DM9C#/355954860_Deck)
